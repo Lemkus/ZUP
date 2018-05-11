@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.5">
+	<ConfigVersions>
+		<Metadata name="Configuration.ПереносВыплат" id="a42af4fc-d29e-42c3-82cd-a89437f7b7f3" configVersion="138e2aac882e38fd7b0485c9720169100c31acb7"/>
+		<Metadata name="ExchangePlan.ОбменСообщениями" id="e0b27690-5abb-4981-b821-f2bf2cc4ea36" configVersion="b8a503fa7bb249b1144d336b71aa1889e27f4559"/>
+		<Metadata name="ExchangePlan.ОбменСообщениями.ManagerModule" id="e0b27690-5abb-4981-b821-f2bf2cc4ea36.3" configVersion="73c497ae76708ac235c8fe67ea95f0bde1b494b3"/>
+		<Metadata name="ExchangePlan.ОбменСообщениями.Template.ПравилаОбмена" id="00252246-3be3-4bda-9a80-bc62b085c4be" configVersion="aa3ff5265ade033568a9cb41b6327e2328f54194"/>
+		<Metadata name="Language.Русский" id="0ef819e4-6657-4b34-a740-78f46ce26d2b" configVersion="129e29c22db48c4a13c7439cdf2cafff5f713218"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
