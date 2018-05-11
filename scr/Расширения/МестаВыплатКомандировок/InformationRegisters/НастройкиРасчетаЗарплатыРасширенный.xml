@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.5">
+	<InformationRegister uuid="a9357382-04c5-40f2-a494-dfa93fa5be0c">
+		<InternalInfo>
+			<xr:GeneratedType name="InformationRegisterRecord.НастройкиРасчетаЗарплатыРасширенный" category="Record">
+				<xr:TypeId>7e20ac12-d2aa-46e4-bac6-b3492a0e63d8</xr:TypeId>
+				<xr:ValueId>2a0ed526-6a77-4710-9982-ead5085b8591</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterManager.НастройкиРасчетаЗарплатыРасширенный" category="Manager">
+				<xr:TypeId>28f0af85-87b5-43c9-96ce-ba34578b10ce</xr:TypeId>
+				<xr:ValueId>3fde61ce-0c2c-4f66-be42-2f61f9720624</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterSelection.НастройкиРасчетаЗарплатыРасширенный" category="Selection">
+				<xr:TypeId>5eb6af8b-0294-4ca4-909b-1c62eac33d58</xr:TypeId>
+				<xr:ValueId>031cbd67-6e00-4ff6-b492-42ea6c951d6b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterList.НастройкиРасчетаЗарплатыРасширенный" category="List">
+				<xr:TypeId>d05da95a-7716-458d-9404-5f7261e559a6</xr:TypeId>
+				<xr:ValueId>f38da2d6-ad49-484b-9df5-370a67ced4e2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordSet.НастройкиРасчетаЗарплатыРасширенный" category="RecordSet">
+				<xr:TypeId>7da0f65c-2439-4d48-8050-072401277152</xr:TypeId>
+				<xr:ValueId>5fdab769-eeca-44e8-a5c5-0b31304a1b63</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordKey.НастройкиРасчетаЗарплатыРасширенный" category="RecordKey">
+				<xr:TypeId>49cc3d81-3bc3-4fef-9ab1-cbc26b86632c</xr:TypeId>
+				<xr:ValueId>6c1124e8-f813-4942-9608-e55a0cac87db</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordManager.НастройкиРасчетаЗарплатыРасширенный" category="RecordManager">
+				<xr:TypeId>ee90ac00-99ee-4adf-a94b-75aac6c05ea7</xr:TypeId>
+				<xr:ValueId>99ccf40f-7a27-43aa-ae55-25a4610c3319</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>НастройкиРасчетаЗарплатыРасширенный</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<InformationRegisterPeriodicity>Nonperiodical</InformationRegisterPeriodicity>
+			<WriteMode>Independent</WriteMode>
+		</Properties>
+		<ChildObjects>
+			<Resource uuid="05d957c3-33e8-4ec4-86b9-1fe93b743379">
+				<Properties>
+					<Name>ИспользоватьОплатуКомандировок</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>xs:boolean</v8:Type>
+					</Type>
+				</Properties>
+			</Resource>
+			<Resource uuid="9dc0d092-a22b-4398-a59f-27863691f050">
+				<Properties>
+					<Name>ИспользоватьОплатуВнутрисменныхКомандировок</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>xs:boolean</v8:Type>
+					</Type>
+				</Properties>
+			</Resource>
+		</ChildObjects>
+	</InformationRegister>
+</MetaDataObject>

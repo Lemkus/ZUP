@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.5">
+	<Document uuid="42ecc2b6-196b-4d50-bef4-9b51a621c32e">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.СторнированиеНачислений" category="Object">
+				<xr:TypeId>14e32c07-1762-47ef-835b-52bd352ccf7f</xr:TypeId>
+				<xr:ValueId>a9a9e43a-c394-4f21-a895-2a785e623e6b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.СторнированиеНачислений" category="Ref">
+				<xr:TypeId>07661872-e3fd-4c8b-905f-2411ccccd582</xr:TypeId>
+				<xr:ValueId>3eb5f092-e666-47d9-b917-7890032e0f60</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.СторнированиеНачислений" category="Selection">
+				<xr:TypeId>a478ed40-4964-482d-8d78-e96a1b6c61d3</xr:TypeId>
+				<xr:ValueId>1e693d67-4ee9-45fe-9f59-adab177c5957</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.СторнированиеНачислений" category="List">
+				<xr:TypeId>b9a4e371-e354-4f4d-aab5-e1673404dfc4</xr:TypeId>
+				<xr:ValueId>33242417-32ff-441c-bd6a-adee8c76174a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.СторнированиеНачислений" category="Manager">
+				<xr:TypeId>d91890db-262b-4dac-b081-06ab3f005f9f</xr:TypeId>
+				<xr:ValueId>062fb64b-2f2f-461c-a19d-af7889296148</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>СторнированиеНачислений</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.5">
+	<Catalog uuid="b2791c6b-c807-44f0-9432-85d3c84a0d79">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ПоказателиРасчетаЗарплаты" category="Object">
+				<xr:TypeId>88c39b0c-23a1-48e8-86bf-ae612548c9a4</xr:TypeId>
+				<xr:ValueId>9d31cdd7-9072-43ec-833b-a7256b7ebbaf</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ПоказателиРасчетаЗарплаты" category="Ref">
+				<xr:TypeId>b9800e4d-9745-4f06-95ce-654ec58bca96</xr:TypeId>
+				<xr:ValueId>0dd18b21-586e-4bca-ba7b-8c4c6a758950</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ПоказателиРасчетаЗарплаты" category="Selection">
+				<xr:TypeId>a207045c-5891-4968-bd2c-0b18f51f3fea</xr:TypeId>
+				<xr:ValueId>3b3dda70-de32-4fe7-bf40-2963cf85932c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ПоказателиРасчетаЗарплаты" category="List">
+				<xr:TypeId>6e292d0e-d8ef-491b-a1f6-28c34827fb87</xr:TypeId>
+				<xr:ValueId>0169c04b-7444-47d5-92a9-5ab0ddaf0aca</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ПоказателиРасчетаЗарплаты" category="Manager">
+				<xr:TypeId>b09b3f83-45f5-4a5d-a454-a3d6630996b6</xr:TypeId>
+				<xr:ValueId>458257b3-b8b1-42cd-9c29-5515fec148a9</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ПоказателиРасчетаЗарплаты</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

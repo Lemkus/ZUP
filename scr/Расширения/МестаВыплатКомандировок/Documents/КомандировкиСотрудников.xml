@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.5">
+	<Document uuid="6931a388-d37c-400d-8ae2-c264a536177d">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.КомандировкиСотрудников" category="Object">
+				<xr:TypeId>f7b16535-78e3-4cb5-bc51-7a3f52e281b5</xr:TypeId>
+				<xr:ValueId>0a12bee7-3ca0-4818-81ea-00812e1057dd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.КомандировкиСотрудников" category="Ref">
+				<xr:TypeId>89af2c40-c8e0-47a7-a845-3c03ddf93a30</xr:TypeId>
+				<xr:ValueId>ad3100ac-00a0-4c23-9dc4-018dfff0a2ed</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.КомандировкиСотрудников" category="Selection">
+				<xr:TypeId>61bdea38-f3a4-4179-8576-ebbc05bfc29f</xr:TypeId>
+				<xr:ValueId>185ec044-2bde-42c6-bb83-79e8946032c7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.КомандировкиСотрудников" category="List">
+				<xr:TypeId>4f7525ad-6665-4872-b7f7-731ada649719</xr:TypeId>
+				<xr:ValueId>e7a5adf9-b4a4-403b-bcb9-688515563262</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.КомандировкиСотрудников" category="Manager">
+				<xr:TypeId>d5b1600a-5821-4dc6-bc92-8160f3e6a915</xr:TypeId>
+				<xr:ValueId>c5606259-736d-48d3-8fe9-2282484676c5</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>КомандировкиСотрудников</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>
